@@ -52,6 +52,17 @@ An interactive **Power BI Sales Data Analysis Dashboard** created to clean, anal
 - Product performance insights
 - Regional performance insights
 - Business recommendations
+- ### 5. Product Details – Drill-through
+
+A dedicated **Drill-through page** is included for detailed product-level analysis.
+
+- Product-level Sales
+- Product-level Profit
+- Quantity
+- Orders
+- Product performance details
+
+Users can right-click a product in the main dashboard and select **Drill through → Product Details** to view detailed information for the selected product.
 ## 📈 Visualizations
 - Order distribution by Region – Pie Chart
 - Top 5 Products by Orders – Column Chart
